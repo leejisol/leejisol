@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🛠 Tech Stacks
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=Adobe%20Illustrator&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/After%20Effects-CF96FD?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white"/>
+### 🛠 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-CC7BA1?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-CC7BA1?style=flat-square&logo=Adobe%20Illustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-CC7BA1?style=flat-square&logo=Figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/After%20Effects-CC7BA1?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white"/>
+</p>
