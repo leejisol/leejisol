@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img width="1280" height="400" alt="github header" src="https://github.com/user-attachments/assets/d60a62f6-06e2-4244-811f-b0341d3427b3" />
 
 <!--
 **leejisol/leejisol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
