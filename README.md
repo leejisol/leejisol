@@ -23,3 +23,18 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Figma-CC7BA1?style=flat-square&logo=Figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/After%20Effects-CC7BA1?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white"/>
 </p>
+# Hi there, I'm Jisol! 👋
+
+<p align="center">
+  <img src="지솔님의_헤더_이미지_주소.png" width="100%" alt="Jisol's Header Banner"/>
+</p>
+
+### 💫 About Me
+- 🎨 **<span style="color:#CC7BA1">Graphic Designer</span>** based in Korea.
+- 🛠 Using **<span style="color:#CC7BA1">Photoshop, Illustrator, Figma, and After Effects</span>**.
+- 🤖 Love creating visual assets with **<span style="color:#CC7BA1">Midjourney</span>** and **3D printing**.
+- 🌐 Exploring the world with **<span style="color:#CC7BA1">German</span>** language skills.
+
+### 🛠 Tech Stack
+---
+*“Good design is obvious. Great design is transparent.”*
