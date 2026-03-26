@@ -25,10 +25,6 @@ Here are some ideas to get you started:
 </p>
 # Hi there, I'm Jisol! 👋
 
-<p align="center">
-  <img src="지솔님의_헤더_이미지_주소.png" width="100%" alt="Jisol's Header Banner"/>
-</p>
-
 ### 💫 About Me
 - 🎨 **<span style="color:#CC7BA1">Graphic Designer</span>** based in Korea.
 - 🛠 Using **<span style="color:#CC7BA1">Photoshop, Illustrator, Figma, and After Effects</span>**.
