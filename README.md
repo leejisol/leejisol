@@ -16,13 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🛠 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-CC7BA1?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-CC7BA1?style=flat-square&logo=Adobe%20Illustrator&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-CC7BA1?style=flat-square&logo=Figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/After%20Effects-CC7BA1?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white"/>
-</p>
 # Hi there, I'm Jisol! 👋
 
 ### 💫 About Me
@@ -32,5 +25,11 @@ Here are some ideas to get you started:
 - 🌐 Exploring the world with **<span style="color:#CC7BA1">German</span>** language skills.
 
 ### 🛠 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-CC7BA1?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-CC7BA1?style=flat-square&logo=Adobe%20Illustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-CC7BA1?style=flat-square&logo=Figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/After%20Effects-CC7BA1?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white"/>
+</p>
 ---
 *“Good design is obvious. Great design is transparent.”*
