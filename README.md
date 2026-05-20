@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### 💫 About Me
 - 🎨 **<span style="color:#CC7BA1">Graphic Designer</span>** based in Korea.
-- 🛠 Using **<span style="color:#CC7BA1">Photoshop, Illustrator, Figma, and After Effects</span>**.
+- 🛠 Using **<span style="color:#CC7BA1">Photoshop, Illustrator, Blender, Figma, and After Effects</span>**.
 - 🤖 Love creating visual assets with **<span style="color:#CC7BA1">Midjourney</span>** and **3D printing**.
 - 🌐 Exploring the world with **<span style="color:#CC7BA1">German</span>** language skills.
 
