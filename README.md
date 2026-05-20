@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-CC7BA1?style=flat-square&logo=Adobe%20Illustrator&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-CC7BA1?style=flat-square&logo=Figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/After%20Effects-CC7BA1?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blender=white"/>
+  <img src="https://img.shields.io/badge/Blender-CC7BA1?style=flat-square&logo=Figma&logoColor=white"/>
 </p>
 
 ---
